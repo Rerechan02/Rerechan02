@@ -72,9 +72,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://komarev.com/ghpvc/?username=Rerechan02&label=VIEWS&style=flat-square&color=blue" />
 </details>
 
-<p align='center'>
-   <a href="https://www.facebook.com/Rerechan02"><img height="100" src="https://raw.githubusercontent.com/Rerechan02/.github/main/speed.svg"></a></p>
-<p align='center'>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
