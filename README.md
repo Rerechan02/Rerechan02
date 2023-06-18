@@ -31,19 +31,19 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
   You can reach me here:<br><br>
-  <a href="mailto:slinfinity69@gmail.com" style="text-decoration: none;">
+  <a href="mailto: widyabakti02@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/" style="text-decoration: none;">
+  <a href="https://t.me/Rerechan02" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="http://github.com/fisabiliyusri" style="text-decoration: none;">
+  <a href="http://github.com/Rerechan02" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/github-%2300C300?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/sulaiman.xl" style="text-decoration: none;">
+  <a href="https://facebook.com/Rerechan" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/facebook-%231DA1F2?&style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/" style="text-decoration: none;">
+  <a href="https://instagram.com/Rerechan" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
