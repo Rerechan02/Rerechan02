@@ -65,14 +65,7 @@ You can click the Preview link to take a look at your changes.
     <summary><b>CLICK HERE </b></summary><br/>
 <h1  align='center'> Welcome To Rerechan02 </h1>
 <p align='center'><img src="https://komarev.com/ghpvc/?username=Rerechan02&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Rerechan02" />
-<p align='center'><a href="https://api.daily.dev/get?r=Rerechan02"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kurumiwangy1.jpg" width="150" alt="L"/></a></p>
-<a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
-<p align='center'>
-<a href="https://api.daily.dev/get?r=fisabiliyusri"><img height="200" src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/root.svg"></a>
-<p align='center'>  I'm L ! :sunglasses: </p>
-<img width="800px" src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kurumiwangy1.jpg" />
-<p align='center'> I'd like to do project that has relation to anime. :ghost: </p>
-
+<p align='center'><a href="https://api.daily.dev/get?r=Rerechan02">
 </p>
 
 ![Jokowi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rerechan02&theme=monokai)
