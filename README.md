@@ -7,11 +7,6 @@
 ![Rerechan02 card name](https://cardivo.vercel.app/api?name=Rerechan%20Store&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny1.jpg?v=4&backgroundColor=%23ecf0f1&telegram=/&github=Rerechan02&pattern=leaf&colorPattern=%23eaeaea)
 </b>
 
-#### Top Repositories
-
-
-| <a href="https://github.com/Rerechan02/simple-xray"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fisabiliyusri&repo=XRAY-MANTAP&theme=dark&hide_border=flase" /></a> | <a href="https://github.com/fisabiliyusri/Mantap"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fisabiliyusri&repo=Mantap&theme=blue&hide_border=false" /></a> |
-| ------------- | ------------- |
 
 <br />
 <br />
