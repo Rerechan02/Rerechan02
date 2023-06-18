@@ -43,17 +43,17 @@ You can click the Preview link to take a look at your changes.
   <a href="https://facebook.com/Rerechan" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/facebook-%231DA1F2?&style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/Rerechan" style="text-decoration: none;">
+  <a href="https://instagram.com/rerechan_02" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  Made with ♥ in ..., Indonesia
+  From in ..., Indonesia
   <br>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+fisabiliyusri" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+Rerechan02" />
 </p>
 <details>
-    <summary>Emmmm...<b></b></summary><br/>
+    <summary>Rere02<b></b></summary><br/>
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
 ![fisabiliyusri's card name](https://cardivo.vercel.app/api?name=SULAIMAN%20L&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/fisabiliyusri/.github/main/kurumiwangy3.jpg?v=4&backgroundColor=%23ecf0f1&twitter=/&github=fisabiliyusri&pattern=leaf&colorPattern=%23eaeaea)
