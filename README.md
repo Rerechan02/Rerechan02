@@ -52,6 +52,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+Rerechan02" />
 </p>
+<details>
     <summary><b>CLICK HERE </b></summary><br/>
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://telegra.ph/file/0cd2f21fc503b748258c8.png" width="150" alt="Hayuk"/></a></p>
 
