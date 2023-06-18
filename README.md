@@ -18,7 +18,7 @@
 </p>
 <div height='45' align="center">
 <h2>Donate me via trakteer: <br>
-<a href="https://trakteer.id/Rerechan02"> <img src="https://telegra.ph/file/e4bbae34a1da4c9700da3.jpg" height='50'> </a>
+<a href="https://trakteer.id/rerechan%2002/showcase/donate-g4iiI"> <img src="https://telegra.ph/file/e4bbae34a1da4c9700da3.jpg" height='50'> </a>
 </h2>
 <h2>Contact me: <br>
 <a href="https://github.com/Rerechan02"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
