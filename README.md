@@ -75,21 +75,21 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-![Jokowi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fisabiliyusri&theme=monokai)
+![Jokowi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rerechan02&theme=monokai)
 
 </p>
 </details>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fisabiliyusri&label=VIEWS&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Rerechan02&label=VIEWS&style=flat-square&color=blue" />
 </details>
 
 <p align='center'>
-   <a href="https://www.facebook.com/sulaiman.xl"><img height="100" src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/speed.svg"></a></p>
+   <a href="https://www.facebook.com/Rerechan02"><img height="100" src="https://raw.githubusercontent.com/Rerechan02/.github/main/speed.svg"></a></p>
 <p align='center'>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=fisabiliyusri)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Rerechan02)
 
 </details> 
 :page_with_curl: I'm currently learning:
@@ -100,6 +100,7 @@ You can click the Preview link to take a look at your changes.
 - JAVA
 - C++
 - Javascript
+- Shel Script
 </p>
 <details>
 :star: Here are some projects that I'm working on:
