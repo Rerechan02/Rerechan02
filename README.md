@@ -11,14 +11,14 @@
 <br />
 <br />
 <p align="center">
-<img height=21 src="https://komarev.com/ghpvc/?username=fisabiliyusri">
+<img height=21 src="https://komarev.com/ghpvc/?username=Rerechan02">
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+U+L+A+I+M+A+N++L" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=R+E+R+E+C+H+A+N+0+2" />
 </p>
 <div height='45' align="center">
 <h2>Donate me via trakteer: <br>
-<a href="https://trakteer.id/Rerechan02/tip"> <img src="https://telegra.ph/file/e4bbae34a1da4c9700da3.jpg" height='50'> </a>
+<a href="https://trakteer.id/Rerechan02"> <img src="https://telegra.ph/file/e4bbae34a1da4c9700da3.jpg" height='50'> </a>
 </h2>
 <h2>Contact me: <br>
 <a href="https://github.com/Rerechan02"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
