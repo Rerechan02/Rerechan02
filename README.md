@@ -105,3 +105,25 @@ You can click the Preview link to take a look at your changes.
 <!--END_SECTION:waka-->
 <!--
 -->
+
+### 
+  
+ <h2 align="left">🛠 Language and tools</h2> 
+  
+ ### 
+  
+ <div align="left"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  /> 
+   <img width="12" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  /> 
+   <img width="12" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  /> 
+   <img width="12" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /> 
+   <img width="12" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  /> 
+   <img width="12" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  /> 
+ </div> 
+  
+ ###
