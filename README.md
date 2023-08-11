@@ -1,3 +1,6 @@
+ <p align="center"> 
+ <img height=21 src="https://komarev.com/ghpvc/?username=Rerechan02"> 
+ </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+github+Rerechan02" />
 </p>
